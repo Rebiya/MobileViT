@@ -1,0 +1,7 @@
+/venvdata/cifar10/*.tar.gz
+/venv
+
+/data/cifar10/*
+/data/cifar10/*.png
+/data/cifar10/cifar-10-python.tar.gz
+/data/cifar10/cifar-10-batches-py/
